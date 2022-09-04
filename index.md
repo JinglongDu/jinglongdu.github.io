@@ -11,7 +11,7 @@
       <p><a href="https://scholar.google.com/citations?user=JerUwSkAAAAJ&hl=zh-CN">[Google Schola]</a></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">
+      <img src="/citations.jpg" width="100%">
     </td>
   </tr>
 </table>
