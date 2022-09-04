@@ -8,7 +8,7 @@
       <p><b>Chongqing Medical University</b></p>
       <p><b>Email：jldu@cqu.edu.cn</b></p>
       <p><b>Address：××市××区××路××号××大学，××楼，邮编×××</b></p>
-      <p><a href="/index-en.html">English Version</a></p>
+      <p><a href="https://scholar.google.com/citations?user=JerUwSkAAAAJ&hl=hl-en">[Google Schola]</a></p>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">
