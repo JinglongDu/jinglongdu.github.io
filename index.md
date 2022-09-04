@@ -29,7 +29,7 @@
 </ul>
 
 
-<h2>Experience And Experience</h2>
+<h3>Experience And Experience</h3>
 
 <ul>
 <li><p>2022-now Research Associate, College of Medical Informatics, Chongqing Medical University</p>
@@ -43,7 +43,7 @@
 </ul>
 
 
-<h2>Courses</h2>
+<h4>Courses</h4>
 <ul>
 <li><p>Image Processing</p>
 </li>
@@ -54,7 +54,7 @@
 </ul>
 
 
-<h2>Selected Publications</h2>
+<h5>Selected Publications</h5>
 
 <ul>
 <li><p>Wei Chen, Peiqin Lin, Wanqi Zhang, <b>Jinglong Du*</b> and Zhongshi He, &ldquo;<a href="https://www.sciencedirect.com/science/article/abs/pii/S095070512200925X">Hierarchical Interactive Network for Joint Aspect Extraction and Sentiment Classification</a>&rdquo;, <i>Knowledge-Based Systems</i>, 2022. (Accepted)</p>
@@ -106,20 +106,8 @@
 </li>
 </ul>
 
-
-<h3>Research Interests</h3>
-
-<ul>
-<li><p>MRI Super-resoultion</p>
-</li>
-<li><p>Image Restoration</p>
-</li>
-<li><p>Deep Learning</p>
-</li>
-</ul>
-  
-  
-<h4>Research Grants</h4>
+   
+<h6>Research Grants</h6>
 <ul>
 <li><p>The Natural Science Foundation of Chongqing, China (Grant No. cstc2021jcyj-bshX0168)</p>
 </li>
