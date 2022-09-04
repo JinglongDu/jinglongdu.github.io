@@ -17,23 +17,34 @@
 </table>
 </div>
 
-<h2>Research</h2>
-<p>My research interests include:</p>
+<h2>Research Interests</h2>
+---
+
 <ul>
-<li><p>Data Mining in Healthcare</p>
+<li><p>MRI Super-resoultion</p>
 </li>
-<li><p>Clinical Predictive Models</p>
+<li><p>Image Restoration</p>
 </li>
-<li><p>Intelligent Systems</p>
+<li><p>Deep Learning</p>
 </li>
 </ul>
 
-<h2>Research</h2>
+
+<h2>Experience And Experience</h2>
 ---
 
-张三，男，个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介
+<li><p>2022-now Associate Professor, College of Medical Informatics, Chongqing Medical University</p>
+</li>
+<li><p>2020–2022 PostDoc, College of Medical Informatics, Chongqing Medical University</p>
+</li>
+<li><p>2016-2020 Ph.D, College of Computer Science, Chongqing University</p>
+</li>
+<li><p>2013-2016 Master, College of Computer Science, Chongqing University</p>
+</li>
+</ul>
 
----
+
+
 
 ### 最新消息
 1. 消息1×××
