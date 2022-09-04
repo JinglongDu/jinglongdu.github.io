@@ -55,6 +55,7 @@
 
 
 <h2>Selected Publications</h2>
+
 <ul>
 <li><p>Wei Chen, Peiqin Lin, Wanqi Zhang, <b>Jinglong Du*</b> and Zhongshi He, &ldquo;<a href="https://www.sciencedirect.com/science/article/abs/pii/S095070512200925X">Hierarchical Interactive Network for Joint Aspect Extraction and Sentiment Classification</a>&rdquo;, <i>Knowledge-Based Systems</i>, 2022. (Accepted)</p>
 </li>
@@ -87,35 +88,25 @@
 </li>
 <li><p>Xiaoyu Qiao, <b>Jinglong Du</b>, Lulu Wang, Zhongshi He* and Yuanyuan Jia*,  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/9053131">A Model-Based Deep Network for MRI Reconstruction Using Approximate Message Passing Algorithm</a>&rdquo;, <i>2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>, pp.1105-1109, 2021.</p>  
 </li>
- <li><p><b>Jinglong Du</b>, Lulu Wang, Yulu Liu, Zexun Zhou, Zhongshi He, Yuanyuan Jia  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/8967055">Brain MRI Super-resolution Using 3D Dilated Convolutional Encoder-Decoder Network</a>&rdquo;, <i>IEEE Access</i>, vol.8, pp.2169-3536, 2020.</p>  
+<li><p><b>Jinglong Du</b>, Lulu Wang, Yulu Liu, Zexun Zhou, Zhongshi He, Yuanyuan Jia  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/8967055">Brain MRI Super-resolution Using 3D Dilated Convolutional Encoder-Decoder Network</a>&rdquo;, <i>IEEE Access</i>, vol.8, pp.2169-3536, 2020.</p>  
 </li>
-       <li><p><b>Jinglong Du</b>, Zhongshi He*, Lulu Wang, Ali Gholipour, Zexun Zhou, Dingding Chen, Yuanyuan Jia*,  &ldquo; <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231219304771">Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network</a>&rdquo;, <i>Neurocomputing</i>, vol.392, pp.209-220 2020.</p>  
+<li><p><b>Jinglong Du</b>, Zhongshi He*, Lulu Wang, Ali Gholipour, Zexun Zhou, Dingding Chen, Yuanyuan Jia*,  &ldquo; <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231219304771">Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network</a>&rdquo;, <i>Neurocomputing</i>, vol.392, pp.209-220 2020.</p>  
 </li>
-       <li><p>Zexun Zhou, Zhongshi He*, Yuanyuan Jia, <b>Jinglong Du</b>, Lulu Wang and Ziyu Chen,  &ldquo; <a href="https://www.sciencedirect.com/science/article/abs/pii/S0923596520301326">Context Prior-based with Residual Learning for Face Detection: A Deep Convolutional Encoder-Decoder Network</a>&rdquo;, <i>Signal Processing: Image Communication</i>, vol.88, pp.115948, 2020.</p>  
+<li><p>Zexun Zhou, Zhongshi He*, Yuanyuan Jia, <b>Jinglong Du</b>, Lulu Wang and Ziyu Chen,  &ldquo; <a href="https://www.sciencedirect.com/science/article/abs/pii/S0923596520301326">Context Prior-based with Residual Learning for Face Detection: A Deep Convolutional Encoder-Decoder Network</a>&rdquo;, <i>Signal Processing: Image Communication</i>, vol.88, pp.115948, 2020.</p>  
 </li>
-       <li><p>Zexun Zhou, Zhongshi He*, Meifeng Shi, <b>Jinglong Du</b> and Dingding Chen,  &ldquo; <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482520301396">3D Dense Connectivity Network with Atrous Convolutional Feature Pyramid for Brain Tumor Segmentation in Magnetic Resonance Imaging of Human Heads</a>&rdquo;, <i>Computers in Biology and Medicine</i>, vol.121, pp.103766, 2020.</p>  
+<li><p>Zexun Zhou, Zhongshi He*, Meifeng Shi, <b>Jinglong Du</b> and Dingding Chen,  &ldquo; <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482520301396">3D Dense Connectivity Network with Atrous Convolutional Feature Pyramid for Brain Tumor Segmentation in Magnetic Resonance Imaging of Human Heads</a>&rdquo;, <i>Computers in Biology and Medicine</i>, vol.121, pp.103766, 2020.</p>  
 </li>
-       <li><p>Lulu Wang, <b>Jinglong Du</b>, Ali Gholipour, Zhongshi He* and Yuanyuan Jia*,  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/8983233">Brain MRI Super-resolution Reconstruction using a Multi-level and Parallel Conv-Deconv Network</a>&rdquo;, <i>2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</i>, pp.885-891, 2019.</p>  
+<li><p>Lulu Wang, <b>Jinglong Du</b>, Ali Gholipour, Zhongshi He* and Yuanyuan Jia*,  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/8983233">Brain MRI Super-resolution Reconstruction using a Multi-level and Parallel Conv-Deconv Network</a>&rdquo;, <i>2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</i>, pp.885-891, 2019.</p>  
 </li>
-       <li><p><b>Jinglong Du</b>, Lulu Wang, Ali Gholipour, Zhongshi H*e and Yuanyuan Jia*,  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/8621073">Accelerated super-resolution MR image reconstruction via a 3D densely connected deep convolutional neural network</a>&rdquo;, <i>2018 IEEE international conference on bioinformatics and biomedicine (BIBM)</i>, pp.349-355, 2018.</p>  
+<li><p><b>Jinglong Du</b>, Lulu Wang, Ali Gholipour, Zhongshi H*e and Yuanyuan Jia*,  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/8621073">Accelerated super-resolution MR image reconstruction via a 3D densely connected deep convolutional neural network</a>&rdquo;, <i>2018 IEEE international conference on bioinformatics and biomedicine (BIBM)</i>, pp.349-355, 2018.</p>  
 </li>
-  <li><p>Zexun Zhou, Zhongshi He*, Ziyu Chen, Yuanyuan Jia, Haiyan Wang, <b>Jinglong Du</b>, Dingding Chen, Lulu Wang, Jing Chen,  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/8489507">FHEDN: A context modeling feature hierarchy encoder-decoder network for face detection</a>&rdquo;, <i>2018 International Joint Conference on Neural Networks (IJCNN)</i>, pp.349-355, 2018.</p>  
+<li><p>Zexun Zhou, Zhongshi He*, Ziyu Chen, Yuanyuan Jia, Haiyan Wang, <b>Jinglong Du</b>, Dingding Chen, Lulu Wang, Jing Chen,  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/8489507">FHEDN: A context modeling feature hierarchy encoder-decoder network for face detection</a>&rdquo;, <i>2018 International Joint Conference on Neural Networks (IJCNN)</i>, pp.349-355, 2018.</p>  
 </li>
   <li><p>Wei Hu, <b>Jinglong Du</b>, Yongkang Xing*,  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/7449809">Spam filtering by semantics-based text classification</a>&rdquo;, <i>2016 Eighth International Conference on Advanced Computational Intelligence (ICACI)</i>, pp.89-94, 2016.</p>  
 </li>
 
-
-<h2>Research Grants</h2>
-<ul>
-<li><p>The Natural Science Foundation of Chongqing, China (Grant No. cstc2021jcyj-bshX0168)</p>
-</li>
-<li><p>The Intelligent Medical Project of Chongqing Medicl University (Grant No.t ZHYXQNRC202101)</p>
-</li>
-<li><p>The Innovation Foundation of Chongqing, China (Grant No. CYB18057)</p>
-</ul>
   
-  <h2>Research Grants</h2>
-
+<h2>Research Grants</h2>
 <ul>
 <li><p>The Natural Science Foundation of Chongqing, China (Grant No. cstc2021jcyj-bshX0168)</p>
 </li>
