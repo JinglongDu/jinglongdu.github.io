@@ -61,8 +61,28 @@
 <li><p>Wei Chen, <b>Jinglong Du</b>, Zhao Zhang, Fuzhen Zhuang* and Zhongshi He*, &ldquo; <a href="https://arxiv.org/abs/2208.11283"> A Hierarchical Interactive Network for Joint Span-based Aspect-Sentiment Analysis</a>&rdquo;, <i>arXiv:2208.11283</i>, 2022.</p>
 </li>
 <li><p>Rui Liu, Huazheng Zhu, Lulu Wang, Baoru Han, <b>Jinglong Du*</b> and Yuanyuan Jia*, &ldquo; <a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809422000544"> Coarse-to-fine segmentation and ensemble convolutional neural networks for automated pediatric bone age assessment</a>&rdquo;, <i>Biomedical Signal Processing and Control</i>, 2022, 75: 103532.</p> 
-  
-  
+<li><p>  Lulu Wang, Huazheng Zhu, Zhongshi He*, Jia Yuanyuan and <b>Jinglong Du*<\b>,  &ldquo; <a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809421009368"> Adjacent slices feature transformer network for single anisotropic 3D brain MRI image super-resolutiont</a>&rdquo;, <i>Biomedical Signal Processing and Control</i>, 2022, 72: 103339.</p>
+<li> 
+ <li><p>Shixin Tu, Yuanyuan Jia, <b>Jinglong Du*<\b> and Baoru Han*,  &ldquo; <a href="">Application of Zero-watermarking for Medical Image in Intelligent Sensor Network Security</a>&rdquo;, <i>Computer Modeling in Engineering & Sciences</i>, 2022. (Accepted)</p>
+<li>
+ <li><p>Wei Chen, Lulu Wang, <b>Jinglong Du*<\b> and Zhongshi He,  &ldquo; <a href="">SubCrime: Counterfactual Data Augmentation for Target Sentiment Analysis</a>&rdquo;, <i>31st International Conference on Artificial Neural Networks</i>, 2022. (Accepted)</p> 
+<li>
+ <li><p>Wanqi Zhang, Lulu Wang, Wei Chen, Yuanyuan Jia, Zhongshi He* and <b>Jinglong Du*<\b>,  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/9746092/">3D Cross-scale Feature Transformer Network for Brain MR Image Super-resolution</a>&rdquo;, <i>2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>, pp.1356-1360, 2022.</p>  
+<li>
+   <li><p>  ,  &ldquo; <a href=""></a>&rdquo;, <i></i>, 2022.</p>  
+<li>
+   <li><p>  ,  &ldquo; <a href=""></a>&rdquo;, <i></i>, 2022.</p>  
+<li>
+   <li><p>  ,  &ldquo; <a href=""></a>&rdquo;, <i></i>, 2022.</p>  
+<li>
+   <li><p>  ,  &ldquo; <a href=""></a>&rdquo;, <i></i>, 2022.</p>  
+<li>
+   <li><p>  ,  &ldquo; <a href=""></a>&rdquo;, <i></i>, 2022.</p>  
+<li>
+   <li><p>  ,  &ldquo; <a href=""></a>&rdquo;, <i></i>, 2022.</p>  
+<li>
+   <li><p>  ,  &ldquo; <a href=""></a>&rdquo;, <i></i>, 2022.</p>  
+<li>
 </ul>
 
 <h2>Projects</h2>
