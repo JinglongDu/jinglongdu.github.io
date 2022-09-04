@@ -56,7 +56,14 @@
 
 <h2>Selected Publications</h2>
 <ul>
-<li><p>Wei Chen, Peiqin Lin, Wanqi Zhang, <b>Jinglong Du*</b> and Zhongshi He, &ldquo;<a href="https://www.sciencedirect.com/science/article/abs/pii/S095070512200925X">Hierarchical Interactive Network for Joint Aspect Extraction and Sentiment Classification</a>&rdquo;, <i>Knowledge-Based Systems</i>, 2022.(Accepted)</p>
+<li><p>Wei Chen, Peiqin Lin, Wanqi Zhang, <b>Jinglong Du*</b> and Zhongshi He, &ldquo;<a href="https://www.sciencedirect.com/science/article/abs/pii/S095070512200925X">Hierarchical Interactive Network for Joint Aspect Extraction and Sentiment Classification</a>&rdquo;, <i>Knowledge-Based Systems</i>, 2022. (Accepted)</p>
 </li>
 </ul>
 
+<h2>Projects</h2>
+<ul>
+<li><p>The Natural Science Foundation of Chongqing, China under Grant cstc2021jcyj-bshX0168
+</li>
+<li><p>The Intelligent Medical Project of Chongqing Medicl University under Grant ZHYXQNRC202101
+</li>
+</ul>
