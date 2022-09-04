@@ -104,8 +104,10 @@
 </li>
   <li><p>Wei Hu, <b>Jinglong Du</b>, Yongkang Xing*,  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/7449809">Spam filtering by semantics-based text classification</a>&rdquo;, <i>2016 Eighth International Conference on Advanced Computational Intelligence (ICACI)</i>, pp.89-94, 2016.</p>  
 </li>
+</ul>
 
- <h3>Research Interests</h3>
+
+<h3>Research Interests</h3>
 
 <ul>
 <li><p>MRI Super-resoultion</p>
