@@ -78,7 +78,7 @@
 <li><p>Weidong He, Yangjinan Hu, Lulu Wang, Zhongshi He* and <b>Jinglong Du*</b>,  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/9414646">Gating Feature Dense Network for Single Anisotropic Mr Image Super-Resolution</a>&rdquo;, <i>2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>, pp. 1670-1674, 2021.</p>  
 </li>
 <li><p>Xuecong Jiang, Lulu Wang, Zhongshi He, Zhongshi He* and <b>Jinglong Du*</b>,  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/9414646">Learning a Frequency Separation Network with Hybrid Convolution and Adaptive Aggregation for Low-dose CT Denoising</a>&rdquo;, <i>2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</i>, pp.919-925, 2021.</p>  
-<li>
+</li>
 <li><p>Weijia Li, Xing Wu*, Yangjinan Hu, Lulu Wang, Zhongshi He* and <b>Jinglong Du*</b>,  &ldquo; <a href="">High-Resolution Recurrent Gated Fusion Network for 3D Pancreas Segmentation</a>&rdquo;, <i>The 2021 International Joint Conference on Neural Networks (IJCNN)</i>, 2021.</p>  
 </li>
 <li><p>Huazheng Zhu, <b>Jinglong Du</b>, LuLu Wang, Baoru Han, and Yuanyuan Jia,  &ldquo; <a href="">A vision-based fall detection framework for the elderly in a room environment using motion features and DAG-SVM</a>&rdquo;, <i></i>, 2021.</p>  
@@ -99,9 +99,9 @@
 </li>
        <li><p><b>Jinglong Du</b>, Lulu Wang, Ali Gholipour, Zhongshi H*e and Yuanyuan Jia*,  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/8621073">Accelerated super-resolution MR image reconstruction via a 3D densely connected deep convolutional neural network</a>&rdquo;, <i>2018 IEEE international conference on bioinformatics and biomedicine (BIBM)</i>, pp.349-355, 2018.</p>  
 </li>
-  <li><p><b>Zexun Zhou, Zhongshi He*, Ziyu Chen, Yuanyuan Jia, Haiyan Wang, <b>Jinglong Du</b>, Dingding Chen, Lulu Wang, Jing Chen,  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/8489507">FHEDN: A context modeling feature hierarchy encoder-decoder network for face detection</a>&rdquo;, <i>2018 International Joint Conference on Neural Networks (IJCNN)</i>, pp.349-355, 2018.</p>  
+  <li><p>Zexun Zhou, Zhongshi He*, Ziyu Chen, Yuanyuan Jia, Haiyan Wang, <b>Jinglong Du</b>, Dingding Chen, Lulu Wang, Jing Chen,  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/8489507">FHEDN: A context modeling feature hierarchy encoder-decoder network for face detection</a>&rdquo;, <i>2018 International Joint Conference on Neural Networks (IJCNN)</i>, pp.349-355, 2018.</p>  
 </li>
-  <li><p><b>Wei Hu, <b>Jinglong Du</b>, Yongkang Xing*,  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/7449809">Spam filtering by semantics-based text classification</a>&rdquo;, <i>2016 Eighth International Conference on Advanced Computational Intelligence (ICACI)</i>, pp.89-94, 2016.</p>  
+  <li><p>Wei Hu, <b>Jinglong Du</b>, Yongkang Xing*,  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/7449809">Spam filtering by semantics-based text classification</a>&rdquo;, <i>2016 Eighth International Conference on Advanced Computational Intelligence (ICACI)</i>, pp.89-94, 2016.</p>  
 </li>
 </ul>
 
