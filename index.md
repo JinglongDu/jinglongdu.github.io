@@ -105,7 +105,7 @@
 </li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Research Grants</h2>
 <ul>
 <li><p>The Natural Science Foundation of Chongqing, China (Grant No. cstc2021jcyj-bshX0168)
 </li>
