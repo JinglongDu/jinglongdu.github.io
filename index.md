@@ -115,29 +115,45 @@
 </ul>
   
   
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>自动编号</title>
+</head>
+
+<script language="javascript" type="text/javascript">
+    window.onload = function () {
+        var tableLine = document.getElementById("number");
+        for (var i = 0; i < tableLine.rows.length; i++) {
+            tableLine.rows[i].cells[0].innerHTML = (i + 1);
+        }
+    }
+</script>
 <body>
 
- <table>
-     <tr>
-         <td>编号</td>
-         <td>内容</td>
-     </tr>
-     <tbody id="number">
-     <tr>
-         <td></td>
-         <td>一</td>
-     </tr>
- 
-     <tr>
-         <td></td>
-         <td>二</td>
-     </tr>
- 
-     <tr>
-         <td></td>
-         <td>三</td>
-     </tr>
-     </tbody>
- </table>
- 
- </body>
+<table>
+    <tr>
+        <td>编号</td>
+        <td>内容</td>
+    </tr>
+    <tbody id="number">
+    <tr>
+        <td></td>
+        <td>一</td>
+    </tr>
+
+    <tr>
+        <td></td>
+        <td>二</td>
+    </tr>
+
+    <tr>
+        <td></td>
+        <td>三</td>
+    </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
