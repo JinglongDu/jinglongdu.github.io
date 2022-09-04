@@ -44,6 +44,7 @@
 
 
 <h2>Courses</h2>
+
 <ul>
 <li><p>Image Processing</p>
 </li>
@@ -107,7 +108,7 @@
 </ul>
 
    
-<h2>Research Grants</h2>
+<h3>Research Grants</h3>
 <ul>
 <li><p>The Natural Science Foundation of Chongqing, China (Grant No. cstc2021jcyj-bshX0168)</p>
 </li>
