@@ -103,13 +103,13 @@
 </li>
   <li><p>Wei Hu, <b>Jinglong Du</b>, Yongkang Xing*,  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/7449809">Spam filtering by semantics-based text classification</a>&rdquo;, <i>2016 Eighth International Conference on Advanced Computational Intelligence (ICACI)</i>, pp.89-94, 2016.</p>  
 </li>
-</ul>
+
 
 <h2>Research Grants</h2>
 <ul>
-<li><p>The Natural Science Foundation of Chongqing, China (Grant No. cstc2021jcyj-bshX0168)
+<li><p>The Natural Science Foundation of Chongqing, China (Grant No. cstc2021jcyj-bshX0168)</p>
 </li>
-<li><p>The Intelligent Medical Project of Chongqing Medicl University (Grant No.t ZHYXQNRC202101)
+<li><p>The Intelligent Medical Project of Chongqing Medicl University (Grant No.t ZHYXQNRC202101)</p>
 </li>
-<li><p>The Innovation Foundation of Chongqing, China (Grant No. CYB18057)
+<li><p>The Innovation Foundation of Chongqing, China (Grant No. CYB18057)</p>
 </ul>
