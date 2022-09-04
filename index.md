@@ -8,7 +8,7 @@
       <p><b>Chongqing Medical University</b></p>
       <p><b>Email：jldu@cqu.edu.cn</b></p>
       <p><b>Address：1 Yixueyuan Road, Yuzhong District, Chongqing 400016, P.R.China</b></p>
-      <p><a href="https://scholar.google.com/citations?user=JerUwSkAAAAJ&hl=zh-CN">[Google Schola]</a></p>
+      <p><a href="https://scholar.google.com/citations?user=JerUwSkAAAAJ&hl=zh-CN">[Google Schola] <a href="https://orcid.org/my-orcid?orcid=0000-0002-4225-0425">[ORCID]</a></a></p>
     </td>
     <td width="25%">
       <img src="/citations.jpg" width="100%">
