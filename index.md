@@ -93,7 +93,7 @@
 </li>
        <li><p>Zexun Zhou, Zhongshi He*, Yuanyuan Jia, <b>Jinglong Du</b>, Lulu Wang and Ziyu Chen,  &ldquo; <a href="https://www.sciencedirect.com/science/article/abs/pii/S0923596520301326">Context Prior-based with Residual Learning for Face Detection: A Deep Convolutional Encoder-Decoder Network</a>&rdquo;, <i>Signal Processing: Image Communication</i>, vol.88, pp.115948, 2020.</p>  
 </li>
-       <li><p>Zexun Zhou, Zhongshi He, Meifeng Shi, <b>Jinglong Du</b> and Dingding Chen,  &ldquo; <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482520301396">3D Dense Connectivity Network with Atrous Convolutional Feature Pyramid for Brain Tumor Segmentation in Magnetic Resonance Imaging of Human Heads</a>&rdquo;, <i>Computers in Biology and Medicine</i>, vol.121, pp.103766, 2020.</p>  
+       <li><p>Zexun Zhou, Zhongshi He*, Meifeng Shi, <b>Jinglong Du</b> and Dingding Chen,  &ldquo; <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482520301396">3D Dense Connectivity Network with Atrous Convolutional Feature Pyramid for Brain Tumor Segmentation in Magnetic Resonance Imaging of Human Heads</a>&rdquo;, <i>Computers in Biology and Medicine</i>, vol.121, pp.103766, 2020.</p>  
 </li>
        <li><p>Lulu Wang, <b>Jinglong Du</b>, Ali Gholipour, Zhongshi He* and Yuanyuan Jia*,  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/8983233">Brain MRI Super-resolution Reconstruction using a Multi-level and Parallel Conv-Deconv Network</a>&rdquo;, <i>2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</i>, pp.885-891, 2019.</p>  
 </li>
