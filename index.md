@@ -31,7 +31,8 @@
 
 <h2>Experience And Experience</h2>
 
-<li><p>2022-now Associate Professor, College of Medical Informatics, Chongqing Medical University</p>
+<ul>
+<li><p>2022-now Research Associate, College of Medical Informatics, Chongqing Medical University</p>
 </li>
 <li><p>2020–2022 PostDoc, College of Medical Informatics, Chongqing Medical University</p>
 </li>
