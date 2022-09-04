@@ -7,7 +7,7 @@
       <p><b>College of Medical Informatics,</b></p>
       <p><b>Chongqing Medical University</b></p>
       <p><b>Email：jldu@cqu.edu.cn</b></p>
-      <p><b>Address：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <p><b>Address：1 Yixueyuan Road, Yuzhong District, Chongqing 400016, P.R.China</b></p>
       <p><a href="https://scholar.google.com/citations?user=JerUwSkAAAAJ&hl=hl-en">[Google Schola]</a></p>
     </td>
     <td width="25%">
@@ -17,6 +17,7 @@
 </table>
 </div>
 
+<h2>Research</h2>
 ---
 
 张三，男，个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介
