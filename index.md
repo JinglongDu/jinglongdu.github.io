@@ -18,6 +18,17 @@
 </div>
 
 <h2>Research</h2>
+<p>My research interests include:</p>
+<ul>
+<li><p>Data Mining in Healthcare</p>
+</li>
+<li><p>Clinical Predictive Models</p>
+</li>
+<li><p>Intelligent Systems</p>
+</li>
+</ul>
+
+<h2>Research</h2>
 ---
 
 张三，男，个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介
