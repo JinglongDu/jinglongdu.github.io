@@ -18,7 +18,6 @@
 </div>
 
 <h2>Research Interests</h2>
----
 
 <ul>
 <li><p>MRI Super-resoultion</p>
@@ -31,7 +30,6 @@
 
 
 <h2>Experience And Experience</h2>
----
 
 <li><p>2022-now Associate Professor, College of Medical Informatics, Chongqing Medical University</p>
 </li>
@@ -44,6 +42,18 @@
 </ul>
 
 
+<h2>Courses</h2>
+<ul>
+<li><p>Image Processing</p>
+</li>
+<li><p>Machine Learning</p>
+</li>
+<li><p>Intelligent Medical Language (Python)</p>
+</li>
+</ul>
+
+
+<h2>Selected Publications</h2>
 
 
 ### 最新消息
