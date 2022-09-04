@@ -29,7 +29,7 @@
 </ul>
 
 
-<h2>Experience And Experience</h2>
+<h2>Education And Experience</h2>
 
 <ul>
 <li><p>2022-now Research Associate, College of Medical Informatics, Chongqing Medical University</p>
