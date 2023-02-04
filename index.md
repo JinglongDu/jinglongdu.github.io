@@ -58,7 +58,7 @@
 <h2>Selected Publications</h2>
 
 <ul>
-<li><p> Ziqian Ye, Jinglong Du, Keyu Li, Zhilun Zhang, Peng Xiao, Taocui Yan, Baoru Han*, Guowei Zuo*, &ldquo;<a href="https://www.mdpi.com/2304-8158/11/24/4101">Coupled Gold Nanoparticles with Aptamers Colorimetry for Detection of Amoxicillin in Human Breast Milk Based on Image Preprocessing and BP-ANN</a>&rdquo;, <i>Foods</i>, vol. 11(24), pp. 4101, 2023.</p>
+<li><p> Ziqian Ye, <b>Jinglong Du</b>, Keyu Li, Zhilun Zhang, Peng Xiao, Taocui Yan, Baoru Han*, Guowei Zuo*, &ldquo;<a href="https://www.mdpi.com/2304-8158/11/24/4101">Coupled Gold Nanoparticles with Aptamers Colorimetry for Detection of Amoxicillin in Human Breast Milk Based on Image Preprocessing and BP-ANN</a>&rdquo;, <i>Foods</i>, vol. 11(24), pp. 4101, 2023.</p>
 </li> 
 <li><p>Wei Chen, Peiqin Lin, Wanqi Zhang, <b>Jinglong Du*</b> and Zhongshi He*, &ldquo;<a href="https://www.sciencedirect.com/science/article/abs/pii/S095070512200925X">Hierarchical Interactive Network for Joint Aspect Extraction and Sentiment Classification</a>&rdquo;, <i>Knowledge-Based Systems</i>, vol. 256, pp. 109825, 2022.</p>
 </li>
