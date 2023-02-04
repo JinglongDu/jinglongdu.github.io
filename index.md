@@ -107,7 +107,18 @@
 </li>
   <li><p>Wei Hu, <b>Jinglong Du</b>, Yongkang Xing*,  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/7449809">Spam filtering by semantics-based text classification</a>&rdquo;, <i>2016 Eighth International Conference on Advanced Computational Intelligence (ICACI)</i>, pp.89-94, 2016.</p>  
 </li>
-   
+
+<h2>Courses</h2>
+
+<ul>
+<li><p>Image Processing</p>
+</li>
+<li><p>Machine Learning</p>
+</li>
+<li><p>Python</p>
+</li>
+</ul>  
+  
 <h2>Research Grants</h2>
   
 <ul>
