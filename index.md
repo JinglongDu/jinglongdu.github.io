@@ -105,8 +105,9 @@
 </li>
 <li><p>Zexun Zhou, Zhongshi He*, Ziyu Chen, Yuanyuan Jia, Haiyan Wang, <b>Jinglong Du</b>, Dingding Chen, Lulu Wang, Jing Chen,  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/8489507">FHEDN: A context modeling feature hierarchy encoder-decoder network for face detection</a>&rdquo;, <i>2018 International Joint Conference on Neural Networks (IJCNN)</i>, pp.349-355, 2018.</p>  
 </li>
-  <li><p>Wei Hu, <b>Jinglong Du</b>, Yongkang Xing*,  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/7449809">Spam filtering by semantics-based text classification</a>&rdquo;, <i>2016 Eighth International Conference on Advanced Computational Intelligence (ICACI)</i>, pp.89-94, 2016.</p>  
+ <li><p>Wei Hu, <b>Jinglong Du</b>, Yongkang Xing*,  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/7449809">Spam filtering by semantics-based text classification</a>&rdquo;, <i>2016 Eighth International Conference on Advanced Computational Intelligence (ICACI)</i>, pp.89-94, 2016.</p>  
 </li>
+</ul> 
 
 <h2>Courses</h2>
 
@@ -117,7 +118,7 @@
 </li>
 <li><p>Python</p>
 </li>
-</ul>  
+ 
   
 <h2>Research Grants</h2>
   
