@@ -50,7 +50,7 @@
 </li>
 <li><p>Machine Learning</p>
 </li>
-<li><p>Intelligent Medical Language (Python)</p>
+<li><p>Python</p>
 </li>
 </ul>
 
