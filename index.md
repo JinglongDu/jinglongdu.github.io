@@ -58,16 +58,18 @@
 <h2>Selected Publications</h2>
 
 <ul>
-<li><p>Wei Chen, Peiqin Lin, Wanqi Zhang, <b>Jinglong Du*</b> and Zhongshi He, &ldquo;<a href="https://www.sciencedirect.com/science/article/abs/pii/S095070512200925X">Hierarchical Interactive Network for Joint Aspect Extraction and Sentiment Classification</a>&rdquo;, <i>Knowledge-Based Systems</i>, 2022. (Accepted)</p>
+<li><p> Ziqian Ye, Jinglong Du, Keyu Li, Zhilun Zhang, Peng Xiao, Taocui Yan, Baoru Han*, Guowei Zuo*, &ldquo;<a href="https://www.mdpi.com/2304-8158/11/24/4101">Coupled Gold Nanoparticles with Aptamers Colorimetry for Detection of Amoxicillin in Human Breast Milk Based on Image Preprocessing and BP-ANN</a>&rdquo;, <i>Foods</i>, vol. 11(24), pp. 4101, 2023.</p>
+</li> 
+<li><p>Wei Chen, Peiqin Lin, Wanqi Zhang, <b>Jinglong Du*</b> and Zhongshi He*, &ldquo;<a href="https://www.sciencedirect.com/science/article/abs/pii/S095070512200925X">Hierarchical Interactive Network for Joint Aspect Extraction and Sentiment Classification</a>&rdquo;, <i>Knowledge-Based Systems</i>, vol. 256, pp. 109825, 2022.</p>
 </li>
-<li><p>Wei Chen, <b>Jinglong Du</b>, Zhao Zhang, Fuzhen Zhuang* and Zhongshi He*, &ldquo; <a href="https://arxiv.org/abs/2208.11283"> A Hierarchical Interactive Network for Joint Span-based Aspect-Sentiment Analysis</a>&rdquo;, <i>arXiv:2208.11283</i>, 2022.</p>
+<li><p>Wei Chen, <b>Jinglong Du</b>, Zhao Zhang, Fuzhen Zhuang* and Zhongshi He*, &ldquo; <a href="https://arxiv.org/abs/2208.11283"> A Hierarchical Interactive Network for Joint Span-based Aspect-Sentiment Analysis</a>&rdquo;, <i>Proceedings of the 29th International Conference on Computational Linguistics</i>, pp.7013-7019, 2022.</p>
 </li>
 <li><p>Rui Liu, Huazheng Zhu, Lulu Wang, Baoru Han, <b>Jinglong Du*</b> and Yuanyuan Jia*, &ldquo; <a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809422000544"> Coarse-to-fine segmentation and ensemble convolutional neural networks for automated pediatric bone age assessment</a>&rdquo;, <i>Biomedical Signal Processing and Control</i>, vol. 75, pp. 103532, 2022.</p> 
 <li><p>  Lulu Wang, Huazheng Zhu, Zhongshi He*, Jia Yuanyuan and <b>Jinglong Du*</b>,  &ldquo; <a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809421009368"> Adjacent slices feature transformer network for single anisotropic 3D brain MRI image super-resolutiont</a>&rdquo;, <i>Biomedical Signal Processing and Control</i>, vol. 72, pp. 103339, 2022.</p>
 </li> 
 <li><p>Shixin Tu, Yuanyuan Jia, <b>Jinglong Du*</b> and Baoru Han*,  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/9594451">Application of Zero-watermarking for Medical Image in Intelligent Sensor Network Security</a>&rdquo;, <i>Computer Modeling in Engineering & Sciences</i>, 2022. (Accepted)</p>
 </li>
-<li><p>Wei Chen, Lulu Wang, <b>Jinglong Du*</b> and Zhongshi He,  &ldquo; <a href="">SubCrime: Counterfactual Data Augmentation for Target Sentiment Analysis</a>&rdquo;, <i>31st International Conference on Artificial Neural Networks</i>, 2022. (Accepted)</p> 
+<li><p>Wei Chen, Lulu Wang, <b>Jinglong Du*</b> and Zhongshi He,  &ldquo; <a href="">SubCrime: Counterfactual Data Augmentation for Target Sentiment Analysis</a>&rdquo;, <i>31st International Conference on Artificial Neural Networks</i>, pp.307-319 2022.</p> 
 </li>
 <li><p>Wanqi Zhang, Lulu Wang, Wei Chen, Yuanyuan Jia, Zhongshi He* and <b>Jinglong Du*</b>,  &ldquo; <a href="https://ieeexplore.ieee.org/abstract/document/9746092/">3D Cross-scale Feature Transformer Network for Brain MR Image Super-resolution</a>&rdquo;, <i>2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>, pp.1356-1360, 2022.</p>  
 </li>
